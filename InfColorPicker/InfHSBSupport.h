@@ -52,3 +52,4 @@ CGImageRef createHSVBarContentImage( InfComponentIndex barComponentIndex, float 
 
 //------------------------------------------------------------------------------
 
+CGImageRef createCheckerPatternImage();
